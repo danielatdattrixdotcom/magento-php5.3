@@ -69,3 +69,6 @@ phpize
 make
 make install
 ```
+
+## Post-post-install
+Of course you'll now need init scripts for your system's init to manage PHP-FPM, and to put all the config files in place at _/etc/php/cli-php5.3_ and _/etc/php/fpm-php5.3_. If you're using this, I trust you have a good reason do something so foolish and also know how setup these two items.
