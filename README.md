@@ -7,7 +7,7 @@ THIS IS FOR USING A VERSION OF PHP WITH KNOWN SECURITY ISSUES AND OUTSIDE OF MAI
 
 ## Objective
 
-Install a legacy version of PHP to run an equally legacy version of Magento. You will end up with a FPM and CLI version of PHP.
+Install a legacy version of PHP to run an equally legacy version of Magento. You will end up with a FPM and CLI version of PHP. Do this all on a current toolchain as of July 2019.
 
 ## Prerequisites
 
